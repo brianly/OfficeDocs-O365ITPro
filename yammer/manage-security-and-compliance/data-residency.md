@@ -29,15 +29,17 @@ Mobile push notifications require sending data to a third party notification se
 
 The following Yammer features are not available for Yammer networks in the EU Geo:
 
-- [All external messaging features](../work-with-external-users/external-messaging-faq.md):
+- All external collaboration features:
 
     - Only users in your Office 365 tenant can participate in your Yammer Enterprise network.
 
     - External guests can’t participate in your Yammer Enterprise network.
 
-    - Your users can’t participate in other Yammer networks.
+    - Your users can’t participate in other Yammer networks, including external networks.
+    
+    - Your users can't be participants in [external messaging threads, or add external participants to threads](../work-with-external-users/external-messaging-faq.md) in your Yammer Enterprise network.
 
-    - External groups can't be created.
+    - External groups can't be created in your Yammer Enterprise network and your users cannot partipate in external groups belonging to other networks.
 
 - [Post to Yammer by sending an email message](https://support.office.com/article/058d1bc1-3492-47c5-bde2-29ea294acdb6)
 
